@@ -1,7 +1,7 @@
 # NRCDose3
 Welcome to the landing page of NRCDose3.
 
-Viewing these pages does not require an account. To submit issues or join discussions, you need to create a free GitLab account. Alternatively, you can submit inquiries directly to the RAMP team by email: RAMP@nrc.gov. You can also email Sam directly: samuel.edwards@nrc.gov.
+Viewing these pages does not require an account. To submit issues or join discussions, you need to create a free GitLab account. Alternatively, you can submit inquiries directly to the RAMP team by email: RAMP@nrc.gov. Feel free to CC Sam: samuel.edwards@nrc.gov.
 
 ### About
 NRCDose is a user-friendly graphical user interface (GUI) for the LADTAP Il, GASPAR II, and XOQDOQ programs which operate under all Microsoft Windows™ platforms. These Fortran codes implement NRC’s current requirements for As Low As Reasonably Achievable (ALARA) for radioactive effluents from nuclear power plants. NRCDose allows the user to enter and retrieve data through a series of windows dialogs, making the use of the program much more user-friendly and efficient than its original design. The NRCDose GUI also allows the user to create sets of data that can be named and retrieved at a later date for review or modification.
