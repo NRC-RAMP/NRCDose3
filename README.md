@@ -3,6 +3,9 @@ Welcome to the landing page of NRCDose3.
 
 Viewing these pages does not require an account. To submit issues or join discussions, you need to create a free GitLab account. Alternatively, you can submit inquiries directly to the RAMP team by email: RAMP@nrc.gov. Feel free to CC Sam: samuel.edwards@nrc.gov.
 
+# Download
+The software can be downloaded from the RAMP website: https://ramp.nrc-gateway.gov/codes/nrcdose/download
+
 ## XOQDOQ modernized into SIERRA
 The XOQDOQ code has been updated and modernized into the Routine Release Analysis model of the Atmospheric Transport and Diffusion (ATD) module in Software Integraion for Environmental Radiological Release Assessments (SIERRA) code.  Therefore, XOQDOQ will receive minimal maintenance as the schedule, funding, etc. will be focused on the updated version in SIERRA.  The issues documented here will be for awareness for users.
 
